@@ -4,7 +4,6 @@
 
 ![JustMusic 桌面端](assets/img/preview.jpg)
 
-<img src="assets/img/preview-mobile.jpg" width="240" alt="JustMusic 移动端">
 
 ## 功能
 
